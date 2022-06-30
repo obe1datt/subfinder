@@ -6,4 +6,6 @@ USAGE : bash subfinder [target main domin]
 or 
 
 chmod +x subfinder.sh 
+
+
 ./subfinder.sh [target main domin]
