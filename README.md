@@ -9,3 +9,8 @@ chmod +x subfinder.sh
 
 
 ./subfinder.sh [target main domin]
+
+------------------------------------------------------
+
+chmod +x dig.sh 
+./dig.sh [target main domian] [wordlsit]
